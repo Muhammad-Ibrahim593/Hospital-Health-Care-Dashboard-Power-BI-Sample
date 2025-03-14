@@ -1,5 +1,5 @@
 # Hospital-Health-Care-Dashboard-Power-BI-Sample
-The Hospital Healthcare Dashboard is a comprehensive, data-driven tool designed to provide real-time insights into key healthcare metrics and operational performance.📊
+The Hospital Healthcare Dashboard is a comprehensive, data-driven tool designed to provide real-time insights into key healthcare metrics and operational performance & Utilized DAX to create advanced calculations and metrics.📊
  ## Dataset Used 
 - <a href="github.com/Muhammad-Ibrahim593/Hospital-Health-Care-Dashboard-Power-BI-Sample/blob/main/healthcare_dataset%20(1).csv">Dataset</a>
 ## Questions 
@@ -12,4 +12,7 @@ The Hospital Healthcare Dashboard is a comprehensive, data-driven tool designed 
 ✅Patients MTD,YTD,QTD & average treatment costs, 
 ✅Bed occupancy rates. 
 ## Dashboard
-![Helthcare Project_page-0003](https://github.com/user-attachments/assets/c63cd20f-169f-4694-997e-e5809b2202fd)
+![Helthcare Project_page-0001](https://github.com/user-attachments/assets/3b93d88c-cb0a-44c9-bf64-94b719edccbc)
+![Helthcare Project_page-0002](https://github.com/user-attachments/assets/836ff00b-8007-4616-b25c-23bca96dfaf0)
+![Helthcare Project_page-0003](https://github.com/user-attachments/assets/828847c2-9c90-478e-9ab4-afdc40f0a89e)
+
